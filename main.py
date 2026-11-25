@@ -12,10 +12,7 @@ import os
 # phrase that flips the achievement itself — the reward for emptying the
 # inbox is twelve new emails about it. Line length: 104 characters, well
 # under the 200-character gate.
-LINE = (
-    "I finally emptied my inbox to zero, and IT celebrated by sending me "
-    "twelve emails about the achievement."
-)
+LINE = "My boss said his door is always open, so I walked in — and he asked me to close it on my way out."
 
 
 def main() -> None:
