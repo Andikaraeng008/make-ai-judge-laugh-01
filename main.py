@@ -8,11 +8,11 @@ output directory, never to a repo-local output/ folder.
 
 import os
 
-# The joke: a concrete office scene (inbox zero) with a twist in the last
-# phrase that flips the achievement itself — the reward for emptying the
-# inbox is twelve new emails about it. Line length: 104 characters, well
-# under the 200-character gate.
-LINE = "The meeting was so long my laptop went to sleep, woke up, and asked if we were done yet. We weren't."
+# The joke: a concrete office scene (haunted computer) with a twist in the
+# last phrase that flips the fix itself — the exorcism only makes the
+# computer whisper the deadlines in Latin. Line length: 147 characters,
+# well under the 200-character gate.
+LINE = "I told IT my computer was haunted because it kept screaming at 3 a.m. They exorcised it with an update. Now it just whispers my deadlines in Latin."
 
 
 def main() -> None:
